@@ -20,8 +20,8 @@
   href="https://www.apple.com/legal/privacy/">Apple's Privacy Policy</a>.</p>
 
   <h2>Contact</h2>
-  <p>Questions? Email: qrbaxter90@gmail.com 
-  To opt out of personalized ads, go to your device Settings → Privacy & Security → Apple Advertising → turn off Personalized Ads.</p>
+  <p>Questions? Email: qrbaxter90@gmail.com</p>
+  <p>To opt out of personalized ads, go to your device Settings → Privacy & Security → Apple Advertising → turn off Personalized Ads.</p>
 
   </body>
   </html>
